@@ -5,8 +5,9 @@
 - 🔭 I’m currently working on Mclnootdev_ (idk... this work never existed)
 - 🌱 I’m currently learning on game development (not on Unity smh) and video editing
 - 👯 I’m looking to collaborate on nothing/nobody
-- 🤔 I’m looking for help with nobody
-- 💬 Ask me about my goals
-- 📫 How to reach me: nothing
+- 🤔 I do swear by typing and whispering. Maybe a little bit.
+- 💬 Ask me about my goals and why i created this.
+- 📫 Favorite content creators: Tommyinnit, LEMMiNNO, Brew, Half as Interesting, and Daily Dose of Internet
 - 😄 Pronouns: he/him
+- 💦 Favorite things: The Internet, Pets, and uhhh more
 - ⚡ Fun fact: Computer motherboards are expensive because of the materials used
