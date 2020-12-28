@@ -8,6 +8,6 @@
 - 🤔 I do swear by typing and whispering. Maybe a little bit.
 - 💬 Ask me about my goals and why i created this.
 - 📫 Favorite content creators: Tommyinnit, LEMMiNNO, Brew, Half as Interesting, and Daily Dose of Internet
-- 😄 Pronouns: he/him
-- 💦 Favorite things: The Internet, Pets, and uhhh more
+- 😄 Things i like to do: Making pixel arts, Making Vector arts, Making arts, and Watching videos
+- 💦 Favorite things: The Internet, Pets, and uhhh more...
 - ⚡ Fun fact: Computer motherboards are expensive because of the materials used
