@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/FanMclaine/FanMclaine/blob/main/mona-whisper.gif)
+
 I'm FanMclaine/Mclnoot_ or what ever you call me!
 
 - 🔭 I’m currently working on Mclnootdev_ (idk... this work never existed)
