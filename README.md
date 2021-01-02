@@ -14,8 +14,8 @@
 
 ![alt text](https://github.com/FanMclaine/FanMclaine/blob/main/RE.png) 
 
-* 🌱 [Reddit (Upvote my posts)](https://reddit.com/user/redditname_mclaine) : redditname_mclaine
-* 🌱 [Github](https://github.com/FanMclaine) : FanMclaine
-* 🌱 [Youtube](https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
+* 🌱 Reddit: (Upvote my posts) (https://reddit.com/user/redditname_mclaine)
+* 🌱 Github: (https://github.com/FanMclaine) : FanMclaine
+* 🌱 [Youtube Channel](https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
 * 🌱 Discord: Mclnoot_#0751
-* 🌱 [My tottaly very own website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* 🌱 [My tottaly very own website...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
