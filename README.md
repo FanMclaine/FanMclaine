@@ -12,8 +12,8 @@
 
 ### Socials 
 
-- [Reddit (Upvote my posts)] (https://reddit.com/user/redditname_mclaine) : redditname_mclaine
-- [Github] (https://github.com/FanMclaine) : FanMclaine
-- [Youtube] (https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
-- Discord: Mclnoot_#0751
-- [Lilugefslifgsfsfgbsieyfgsifcgsexjfffffsuyfv] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Reddit (Upvote my posts)] (https://reddit.com/user/redditname_mclaine) : redditname_mclaine
+* [Github] (https://github.com/FanMclaine) : FanMclaine
+* [Youtube] (https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
+* Discord: Mclnoot_#0751
+* [Lilugefslifgsfsfgbsieyfgsifcgsexjfffffsuyfv] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
