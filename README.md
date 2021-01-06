@@ -16,4 +16,4 @@
 * 🌱 Github: (https://github.com/FanMclaine) : FanMclaine
 * 🌱 [Youtube Channel](https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
 * 🌱 Discord: Mclnoot_#0751
-* 🌱 [Itch. io](https://www.itch.io/Mclnootdev) : Mclnootdev
+* 🌱 [Itch. io](https://mclnootdev.itch.io/) : Mclnootdev
