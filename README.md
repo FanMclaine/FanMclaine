@@ -5,10 +5,10 @@
 😅 I'm FanMclaine/Mclnoot_ or what ever you call me!
 
 - 🌱 I’m currently learning on game development (not on Unity smh) and video editing
-- 📫 Favorite content creators: Tommyinnit, LEMMiNNO, Brew, Half as Interesting, and Daily Dose of Internet
+- 📫 Favorite content creators: Tommyinnit, LEMMiNNO, and Daily Dose of Internet
 - 😄 Things i like to do: Making pixel arts, Making Vector arts, Making arts, and Watching videos
 - 💦 Favorite things: The Internet, Pets, and uhhh more...
-- ⚡ Fun fact: Computer motherboards are expensive because of the materials used
+- ⚡ Fun fact: Computer I FUCKED YOUR MOM
 
 ### Socials 
 
