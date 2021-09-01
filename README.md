@@ -4,11 +4,11 @@
 
 😅 I'm FanMclaine/Mclnoot_ or what ever you call me!
 
-- 🌱 I’m currently learning on game development (not on Unity smh) and video editing
+- 🌱 I’m currently a student
 - 📫 Favorite content creators: Tommyinnit, LEMMiNNO, and Daily Dose of Internet
-- 😄 Things i like to do: Making pixel arts, Making Vector arts, Making arts, and Watching videos
-- 💦 Favorite things: The Internet, Pets, and uhhh more...
-- ⚡ Fun fact: Computer I FUCKED YOUR MOM
+- 😄 Things i like to do: Making Vector arts, Making arts, and Watching videos
+- 💦 Favorite things: The Internet, Money, and uhhh more...
+- ⚡ Fun fact: translate key cow to tagalog
 
 ### Socials 
 
@@ -17,3 +17,5 @@
 * 🌱 [Youtube Channel](https://www.youtube.com/channel/UCJDfX1byQTCakscsMi28cOg) : FanMclaine_1109
 * 🌱 Discord: Mclnoot_#0751
 * 🌱 [Itch. io](https://mclnootdev.itch.io/) : Mclnootdev
+
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3611TP)
