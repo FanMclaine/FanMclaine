@@ -2,10 +2,10 @@
 
 ![alt text](https://github.com/FanMclaine/FanMclaine/blob/main/RE.png) 
 
-😅 I'm FanMclaine/Mclnoot_ or what ever you call me!
+� I'm FanMclaine/Mclnoot_ or what ever you call me!
 
-- 🌱 I’m currently a student
-- 📫 Favorite content creators: Tommyinnit, LEMMiNNO, and Daily Dose of Internet
+- 🌱 I’m currently 
+- 📫 Favorite content creators: LEMMiNNO, Game theory, and Daily Dose of Internet
 - 😄 Things i like to do: Making Vector arts, Making arts, and Watching videos
 - 💦 Favorite things: The Internet, Money, and uhhh more...
 - ⚡ Fun fact: translate key cow to tagalog
