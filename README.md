@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-� I'm FanMclaine/Mclnoot_ or what ever you call me!
+� Hi, I'm Mclnoot_ feel free to star my repos
+
+Socials:
+
+* [Reddit](https://reddit.com/user/redditname_mclaine)
+* [Gitlab](https://gitlab.com/FanMclaine)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3611TP)
 
@@ -8,17 +13,10 @@
 
 ### About me
 
-- 🌱 I’m currently 
-- 📫 Favorite content creators: LEMMiNNO, Game theory, and Daily Dose of Internet
-- 😄 Things i like to do: Making arts, Maybe coding
-- ⚡ Fun fact: translate key cow to tagalog
-
-### Socials 
-
-* 🌱 [Reddit](https://reddit.com/user/redditname_mclaine)
-* 🌱 [Github](https://github.com/FanMclaine)
-* 🌱 Discord: Mclnoot_#0751
-* 🌱 [Itch. io](https://mclnootdev.itch.io/)
+- 🌱 I’m currently a student
+- 🎮  Favorite games or hobbies: Minceraft, Isleward, Biking, 
+- � Things i like to do: Making arts (NOT NFT), Maybe coding
+- ⚡ Fun fact: Glaciers and ice sheets hold about 69 percent of the world's freshwater.
 
 --- 
  
