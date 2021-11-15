@@ -14,7 +14,7 @@ Socials:
 ### About me
 
 - 🌱 I’m currently a student
-- 🎮  Favorite games or hobbies: Minceraft, Isleward, Biking, 
+- 🎮  Favorite games and hobbies: Minceraft, Isleward, Biking, 
 - � Things i like to do: Making arts (NOT NFT), Maybe coding
 - ⚡ Fun fact: Glaciers and ice sheets hold about 69 percent of the world's freshwater.
 
