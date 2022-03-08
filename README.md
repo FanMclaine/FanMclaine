@@ -22,6 +22,4 @@ Socials:
  
 ### Cool stuff i found
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanMclaine&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanMclaine&layout=compact&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanMclaine&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanMclaine&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
