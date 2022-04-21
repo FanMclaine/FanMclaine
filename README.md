@@ -22,8 +22,6 @@ Socials:
 --- 
  
 ### Cool stuffs i found
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanMclaine&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanMclaine&layout=compact&hide=ruby&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Metrics](/github-metrics.svg)
