@@ -15,7 +15,7 @@ Socials:
 
 - 🌱 I’m currently a student
 - � Linux enthusiast 
-- 🎮  Favorite games and hobbies: Minceraft, Isleward, Biking, 
+- 🎮  Favorite games and hobbies: Ricing linux distros in a live environment with no persistence 
 - � Things i like to do: Making arts (NOT NFT), Maybe coding and frontend dev
 - ⚡ Fun fact: Glaciers and ice sheets hold about **69** percent of the world's freshwater.
 
