@@ -19,7 +19,7 @@ jobs:
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
-          config_order: base.header, isocalendar, languages
+          config_order: base.header, isocalendar, achievements, languages
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
