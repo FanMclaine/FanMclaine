@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_display: columns
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_OR_SOMETHING }}
           config_timezone: Asia/Manila
