@@ -31,6 +31,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
            filename: media.svg
+           base: ""
            token: ${{ secrets.METRICS_OR_SOMETHING }}
            plugin_anilist: yes
            plugin_anilist_user: noo1
@@ -42,6 +43,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
            filename: acheivements.svg
+           base: ""
            token: ${{ secrets.METRICS_OR_SOMETHING }}
            plugin_achievements: yes
            plugin_achievements_display: compact
