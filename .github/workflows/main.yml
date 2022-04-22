@@ -27,7 +27,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_order: base.header, repositories, isocalendar, languages, topics, stars
+          config_order: base.header, base.repositories, isocalendar, languages, topics, stars
           
       - name: Im not a weeb i swear
         if: ${{ success() || failure() }}
@@ -41,7 +41,7 @@ jobs:
            plugin_anilist_medias: anime
            plugin_anilist_sections: favorites, characters
            
-      - name: Achievements
+      - name: Achievements and random
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -51,4 +51,5 @@ jobs:
            plugin_achievements: yes
            plugin_achievements_display: compact
            plugin_achievements_threshold: X
+           plugin_fortune: yes
       
