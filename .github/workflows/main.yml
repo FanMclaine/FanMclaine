@@ -39,7 +39,7 @@ jobs:
            plugin_anilist: yes
            plugin_anilist_user: noo1
            plugin_anilist_medias: anime
-           plugin_anilist_sections: favorites, characters
+           plugin_anilist_sections: favorites, characters, watching
            
       - name: Achievements and random
         if: ${{ success() || failure() }}
