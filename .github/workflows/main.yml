@@ -25,7 +25,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          config_order: base.header, isocalendar, languages, topics,
+          config_order: base.header, repositories, isocalendar, languages, topics,
           
       - name: Im not a weeb i swear
         if: ${{ success() || failure() }}
