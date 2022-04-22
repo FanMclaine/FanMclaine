@@ -12,7 +12,7 @@
  
 ### Cool stuffs i found
 
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="right" src="/media.svg" alt="Amine" width="400">
-<img align="right" src="/acheivements.svg" alt="wowowow" width="390">
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="405">
+<img align="right" src="/media.svg" alt="Amine" width="405">
+<img align="right" src="/acheivements.svg" alt="wowowow" width="395">
 
