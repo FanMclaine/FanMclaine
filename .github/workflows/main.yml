@@ -26,6 +26,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_anilist: yes
+          plugin_anilist_user: noo1
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           config_order: base.header, isocalendar, achievements, languages, topics, anilist
