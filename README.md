@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 � Hi, I'm Mclnoot_ feel free to star my repos
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://fanmclaine.github.io)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3611TP)
 
