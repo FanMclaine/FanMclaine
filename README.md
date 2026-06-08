@@ -1,4 +1,4 @@
-<h1 align="center">喂 👋, i'm Mclaine 👾</h1>
+<h1 align="center">喂 👋, i'm Mclaine 👾</h1> <img align="right" width="200" alt="Rule34listthing" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
 
 <p align="center">
   <code>$ whoami</code> — cybersec enthusiast · front-end dev · open source contributor
@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Front--End-Developer-D85A30?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-1D9E75?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+
 
 ---
 
@@ -38,4 +40,4 @@
 
 ---
 
-⚡ Fun fact **I love cross-dressing**
+<p align="center">⚡ Fun fact **I love cross-dressing**</p>
