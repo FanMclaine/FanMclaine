@@ -21,7 +21,7 @@
   "cert":       "fortinet nse 3 — cybersecurity associate",
   "platforms":  ["tryhackme", "github", "linkedinmaxxing"],
   "os":         "fedora linux",
-  "interests":  ["osint", "web security", "ui/ux", "mandarin (zh-CN)"]
+  "interests":  ["larping", "web security", "ui/ux", "mandarin (zh-CN)"]
 }
 ```
 
@@ -39,5 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanmclaine&show_icons=true&locale=en" alt="fanmclaine" /></p>
 
 ---
-
-<p align="center">⚡ Fun fact **I love cross-dressing**</p>
