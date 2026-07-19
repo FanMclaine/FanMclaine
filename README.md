@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fortinet%20NSE%203-Certified-EF9F27?style=flat-square&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Fedora-185FA5?style=flat-square&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Front--End-Developer-D85A30?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-1D9E75?style=flat-square&logo=github&logoColor=white" />
